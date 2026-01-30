@@ -1,5 +1,7 @@
-## Hi there 👋
+# 👋 Hi there, I'm Juan Pablo!
 
 <div align="center">
   <img width="500" height="500" alt="JUANPABLO" src="https://github.com/user-attachments/assets/73f979af-2efe-44b7-8233-724b12c38ba7" />
+
+  A motivated developer from Colombia with a strong ability to learn.
 </div>
