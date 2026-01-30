@@ -12,7 +12,7 @@
 
 ## Achievements
 - **National Winner in Software Development** - WorldSkills Colombia 2025.
-- **Silver Medalist** - WorldSkills Americas.
+- **Silver Medalist** - WorldSkills Americas 2025.
 
 ## Programming languages I know
 - **C#**
