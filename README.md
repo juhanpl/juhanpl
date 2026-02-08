@@ -42,6 +42,18 @@ My vision for the future is clear: I aim to lead globally scaled projects where 
 
 ---
 
+## 🌐 Social Links
+
+<div align="center">
+
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/juan-pablo-mendoza-lopez/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-222831?style=for-the-badge)]()
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:)
+
+</div>
+
+---
+
 ## 🛠 Technologies & Tools
 
 <div align="center">
@@ -70,18 +82,6 @@ My vision for the future is clear: I aim to lead globally scaled projects where 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
-</div>
-
----
-
-## 🌐 Social Links
-
-<div align="center">
-
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/juan-pablo-mendoza-lopez/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-222831?style=for-the-badge)]()
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:)
 
 </div>
 
