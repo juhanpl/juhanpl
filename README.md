@@ -4,7 +4,7 @@
 
 <img src="https://github.com/user-attachments/assets/73f979af-2efe-44b7-8233-724b12c38ba7" width="500" alt="JUAN PABLO BANNER" />
 
-### A motivated software developer from Colombia 🇨🇴
+### A motivated software developer from Colombia
 
 </div>
 
@@ -12,15 +12,11 @@
 
 <div align="center">
 
-<!-- Badges (puedes agregar o quitar los que quieras) -->
-
-![Profile Views](https://komarev.com/ghpvc/?username=TU_USUARIO&style=for-the-badge)
-![GitHub Followers](https://img.shields.io/github/followers/TU_USUARIO?style=for-the-badge)
-<!-- Wakatime -->
-<!-- MonkeyType -->
-<!-- WorldSkills badges -->
+[![WorldSkills](./images/badge-ws-colombia.svg)]()
+[![WorldSkills Silver](./images/badge-ws-americas.svg)]()
 
 </div>
+
 
 ---
 
