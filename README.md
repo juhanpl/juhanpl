@@ -12,6 +12,7 @@
 
 <div align="center">
 
+[![WorldSkills](./images/badge-ws-representant.svg)]()
 [![WorldSkills](./images/badge-ws-colombia.svg)]()
 [![WorldSkills Silver](./images/badge-ws-americas.svg)]()
 
